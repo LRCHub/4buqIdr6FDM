@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Folktale",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-03-06T16:22:59.517777Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Folktale",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_Folktale_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Folktale (~The White Lounge Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_Folktale_(~The_White_Lounge_Version~___Live)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Folktale",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_Folktale_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Folktale",
+      "artist": "Ahn Dayoung",
+      "has_synced": true,
+      "path": "select/04_Folktale_Ahn_Dayoung.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "02. Folktale ~The White Lounge Version~ (Live)FLAC",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_02._Folktale_~The_White_Lounge_Version~_(Live)FLAC_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "02. Folktale ~The White Lounge Version~",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_02._Folktale_~The_White_Lounge_Version~_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "02. Folktale ~White Lounge Version~ FLAC",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/07_02._Folktale_~White_Lounge_Version~_FLAC_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Folktale",
+      "artist": "Willow Crest",
+      "has_synced": true,
+      "path": "select/08_Folktale_Willow_Crest.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Folktale (~The White Lounge Version~ / Live / From “The White Lounge in CINEMA” Soundtrack)",
+      "artist": "Mrs. Green Apple",
+      "has_synced": false,
+      "path": "select/09_Folktale_(~The_White_Lounge_Version~___Live___From_“The_White_Lounge_in_CINEMA”__Mrs._Green_Apple.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Folktale (~The White Lounge Version~ / Live / 映画「The White Lounge in CINEMA」より)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/10_Folktale_(~The_White_Lounge_Version~___Live___映画「The_White_Lounge_in_CINEMA」より)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Folktale",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Folktale_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
